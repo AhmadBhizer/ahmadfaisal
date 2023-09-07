@@ -1,0 +1,33 @@
+.jumbotron img {
+	border-radius: 100%;
+}
+.jumbotron{
+	background-color: #DCDCDC;
+}
+section{
+	min-height:200px;
+}
+.portopolio{
+	background-color: #DCDCDC;
+}
+.portopolio img{
+	padding: 5px;
+}
+hr{
+	width: 350px;
+	border-top:3px solid #666;
+}
+html{
+	position: relative;
+}
+footer{
+  background-color:grey;
+     text-align: center;
+   }
+   ul li{
+     display: inline
+   }
+   a{
+     padding: 5px;
+     text-decoration: none;
+   }
